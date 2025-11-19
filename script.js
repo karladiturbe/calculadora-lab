@@ -12,3 +12,9 @@ function divide(num1, num2) {
 }
 let result = add(2.56,"5");
 console.log(result);
+let result2 = substract(2.56,"5");
+console.log(result2);
+let result3 = divide(2.56,"5");
+console.log(result3);
+let result4 = multiply(2.56,"5");
+console.log(result4);
